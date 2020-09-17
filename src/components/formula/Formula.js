@@ -18,7 +18,10 @@ export class Formula extends ExcelComponent {
     }
 
     onInput(event) {
-        console.log(this.$root)
         console.log('onInput: ', event.target.textContent.trim())
+    }
+
+    onClick(event) {
+        console.log('onClick:', event.target)
     }
 }
