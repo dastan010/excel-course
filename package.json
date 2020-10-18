@@ -47,7 +47,7 @@
   "dependencies": {
     "@babel/plugin-proposal-class-properties": "^7.10.4",
     "@babel/polyfill": "^7.10.4",
-    "normalize.css": "^8.0.1",
-    "node-forge": ">=0.10.0"
+    "node-forge": "^0.10.0",
+    "normalize.css": "^8.0.1"
   }
 }
